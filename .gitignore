@@ -1,0 +1,5 @@
+/assimp
+/build/*
+!build/assimp-vc142-mtd.dll
+/data/*
+/tmp/*
